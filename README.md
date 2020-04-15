@@ -1,1 +1,1 @@
-# awsexploer
+# aws sdk2 example
